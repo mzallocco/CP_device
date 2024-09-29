@@ -26,13 +26,13 @@ continues when the DH presses the push button.
 Participants.
 
 The idea for this device was envisaged by Virginia Quellmalz-Zallocco
-who during her health studies was an observer for the care given to
-these children.
+who observered the care given to these children during her health care
+studies.
 
 Virginia designed and constructed the enclosure, and is responsible
 for marketing the product. Recently presented the need, and
 demonstrated the device at Carnegie University as a potential for
-project research and accepted by senior students.
+research project and accepted as such by senior students.
 
 The coding, circuit design and implementation for the first iteration
 was done by Mauro Zallocco.
