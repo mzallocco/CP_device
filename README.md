@@ -25,7 +25,7 @@ continues when the DH presses the push button.
 
 Participants.
 
-The idea for this device was envisaged by Virginia Quellmalz-Zallocco, COTA, OTD/S, CLT
+The idea for this device was envisaged by Virginia Q-Z, COTA, OTD/S, CLT
 who observered the therapeutic care given to these children during her health care
 studies.
 
